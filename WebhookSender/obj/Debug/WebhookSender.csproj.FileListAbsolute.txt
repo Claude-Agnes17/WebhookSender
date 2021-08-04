@@ -1,8 +1,0 @@
-D:\GitHub\WebhookSender\WebhookSender\bin\Debug\WebhookSender.exe.config
-D:\GitHub\WebhookSender\WebhookSender\bin\Debug\WebhookSender.exe
-D:\GitHub\WebhookSender\WebhookSender\bin\Debug\WebhookSender.pdb
-D:\GitHub\WebhookSender\WebhookSender\obj\Debug\WebhookSender.Main.resources
-D:\GitHub\WebhookSender\WebhookSender\obj\Debug\WebhookSender.csproj.GenerateResource.cache
-D:\GitHub\WebhookSender\WebhookSender\obj\Debug\WebhookSender.csproj.CoreCompileInputs.cache
-D:\GitHub\WebhookSender\WebhookSender\obj\Debug\WebhookSender.exe
-D:\GitHub\WebhookSender\WebhookSender\obj\Debug\WebhookSender.pdb
